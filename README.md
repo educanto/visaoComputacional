@@ -5,4 +5,4 @@ Autores:
       - Rafael Quint
 
 
-#<img src="" width=800>
+#<img src="https://raw.githubusercontent.com/magcid/visaoComputacional/main/PosterVisaoComputacional.png" width=800>
