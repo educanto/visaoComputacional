@@ -5,4 +5,4 @@ Autores:
       - Rafael Quint
 
 
-<img src="https://raw.githubusercontent.com/educanto/visaoComputacional/main/PosterVisaoComputacional.png" width=800>
+<embed src="https://raw.githubusercontent.com/educanto/visaoComputacional/main/BannerVisaoComputacional.pdf" width=800 type='application/pdf'>
