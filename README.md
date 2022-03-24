@@ -1,4 +1,4 @@
-# Visao Computacional
+# Visão Computacional
 Autores: 
 
       - Eduardo Camilo do Canto
